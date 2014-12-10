@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" xmlns:table="urn:jsptagdir:/WEB-INF/tags/form/fields" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:list id="pl_com_travelmanager_domain_StartPoint" items="${startpoints}" z="TcqG8Lmqj8yjjOybP/YvzZSE+GM=">
+        <table:table data="${startpoints}" id="l_com_travelmanager_domain_StartPoint" path="/startpoints" z="UaKf0xXSwEIsaW8AATE2eeGiX80=">
+            <table:column id="c_com_travelmanager_domain_StartPoint_name" property="name" z="YWCdUgK4uqeZYUIfgZ0EeRK7eFw="/>
+            <table:column id="c_com_travelmanager_domain_StartPoint_address" property="address" z="8Rxk3LBnmdYaBQ/6gfD6gN+8heY="/>
+        </table:table>
+    </page:list>
+</div>
