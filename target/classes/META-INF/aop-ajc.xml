@@ -1,0 +1,24 @@
+<aspectj>
+<aspects>
+<aspect name="com.travelmanager.domain.StartPoint_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.travelmanager.domain.EndPoint_Roo_Configurable"/>
+<aspect name="com.travelmanager.domain.StartPoint_Roo_JavaBean"/>
+<aspect name="com.travelmanager.domain.Route_Roo_Configurable"/>
+<aspect name="com.travelmanager.web.RouteController_Roo_Controller"/>
+<aspect name="com.travelmanager.web.ApplicationConversionServiceFactoryBean_Roo_ConversionService"/>
+<aspect name="com.travelmanager.domain.Route_Roo_Jpa_Entity"/>
+<aspect name="com.travelmanager.domain.EndPoint_Roo_Jpa_Entity"/>
+<aspect name="com.travelmanager.domain.Route_Roo_ToString"/>
+<aspect name="com.travelmanager.domain.Route_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.travelmanager.domain.EndPoint_Roo_JavaBean"/>
+<aspect name="com.travelmanager.web.StartPointController_Roo_Controller"/>
+<aspect name="com.travelmanager.domain.Route_Roo_JavaBean"/>
+<aspect name="com.travelmanager.domain.StartPoint_Roo_ToString"/>
+<aspect name="com.travelmanager.domain.EndPoint_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.travelmanager.web.EndPointController_Roo_Controller"/>
+<aspect name="com.travelmanager.domain.StartPoint_Roo_Jpa_Entity"/>
+<aspect name="com.travelmanager.domain.StartPoint_Roo_Configurable"/>
+<aspect name="com.travelmanager.domain.EndPoint_Roo_ToString"/>
+</aspects>
+</aspectj>
+
