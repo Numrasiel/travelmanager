@@ -1,9 +1,0 @@
-<aspectj>
-<aspects>
-<aspect name="com.travelmanager.domain.RouteIntegrationTest_Roo_IntegrationTest"/>
-<aspect name="com.travelmanager.domain.RouteDataOnDemand_Roo_Configurable"/>
-<aspect name="com.travelmanager.domain.RouteDataOnDemand_Roo_DataOnDemand"/>
-<aspect name="com.travelmanager.domain.RouteIntegrationTest_Roo_Configurable"/>
-</aspects>
-</aspectj>
-
