@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<div xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:form="urn:jsptagdir:/WEB-INF/tags/form" xmlns:jsp="http://java.sun.com/JSP/Page" version="2.0">
-    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
-    <jsp:output omit-xml-declaration="yes"/>
-    <form:update id="fu_com_travelmanager_domain_EndPoint" modelAttribute="endPoint" path="/endpoints" versionField="Version" z="7k0ICQs98ZCNrvFfEm79OAFcH/M=">
-        <field:input field="name" id="c_com_travelmanager_domain_EndPoint_name" z="gPS5e29G9W6b/4FrC0oSyFMlXhI="/>
-        <field:input field="address" id="c_com_travelmanager_domain_EndPoint_address" z="6xjMJ7hI0iHSgH7QR6yGwH38MB8="/>
-    </form:update>
-</div>

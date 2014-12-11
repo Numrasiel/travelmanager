@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<div xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" version="2.0">
-    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
-    <jsp:output omit-xml-declaration="yes"/>
-    <page:show id="ps_com_travelmanager_domain_StartPoint" object="${startpoint}" path="/startpoints" z="ygwc0RvRgqCay7EGyv7ZaoGkokM=">
-        <field:display field="name" id="s_com_travelmanager_domain_StartPoint_name" object="${startpoint}" z="jEbo+C0i4WHNskZLK80t+n82lbY="/>
-        <field:display field="address" id="s_com_travelmanager_domain_StartPoint_address" object="${startpoint}" z="FcSgBs1qxlAkQii42OdvJkAFIcg="/>
-    </page:show>
-</div>
